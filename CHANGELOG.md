@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/yuuki-kagura/rakuyomi_bridge/compare/v3.0.0...v3.0.1) (2026-11-15)
+
+
+### Bug Fixes
+
+* **release:** attach the AABs to the release ([dc9e511](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/dc9e511590de79d2717633a9850484adc1b0b924))
+
 # [3.0.0](https://github.com/yuuki-kagura/rakuyomi_bridge/compare/v2.0.0...v3.0.0) (2026-11-15)
 
 
