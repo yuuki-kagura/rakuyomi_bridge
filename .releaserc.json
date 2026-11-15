@@ -17,6 +17,8 @@
     [
       "@semantic-release/github",
       {
+        "successComment": false,
+        "failComment": false,
         "assets": [
           {
             "path": "androidApp/build/outputs/bundle/release/*-signed.aab",
