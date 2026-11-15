@@ -1,3 +1,21 @@
+# [3.0.0](https://github.com/yuuki-kagura/rakuyomi_bridge/compare/v2.0.0...v3.0.0) (2026-11-15)
+
+
+* feat!: release 3.0.0 ([b22ad17](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/b22ad17f4bdd3404c2b44730193ecf1cbdf57f7f))
+
+
+### Bug Fixes
+
+* **release:** stop semantic-release pushing git notes ([daa9748](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/daa97482db6cda1ea519b8f05dc8fe2e8b07bb78))
+
+
+### BREAKING CHANGES
+
+* the project moved to the yuuki-kagura repositories after
+the previous account was suspended. Builds are produced from
+yuuki-kagura/rakuyomi_bridge against yuuki-kagura/rakuyomi, and installed
+copies must take updates from the new repository.
+
 # [2.0.0](https://github.com/yuuki-kagura/rakuyomi_bridge/compare/v1.2.1...v2.0.0) (2026-11-15)
 
 
