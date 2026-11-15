@@ -1,3 +1,38 @@
+# 1.0.0 (2026-11-15)
+
+
+### Bug Fixes
+
+* **bridge:** change BaseServerService property visibility to public for Hilt injection ([8368234](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/83682341e8b990f53d1a634e1267d3439bd67c62))
+* **ci:** bump setup-android to v4 ([c43cd38](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/c43cd38f51a85fba73fee7773d6182e875ae8181))
+* make rakuyomi checkout reliable and align toolchain ([74de293](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/74de2934e8128c344c81de3359203ad706e47bc9))
+* missing .so in outpuy ([6537467](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/65374672795bd884173fca1c2933539ba2f69459))
+* point workflows and update checks at yuuki-kagura ([85ced78](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/85ced78c09735de6342814f9d6703f68beeadac0))
+* release ([b076dc9](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/b076dc98628bd0702d7fc12ff90d9aff22d0fef7))
+* release ([adfd859](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/adfd859a20298527165e78a5a724db0d593c7fd6))
+* repair Android CI rust build ([f744a6a](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/f744a6a5f636a4ab38dddaadba1a61f3f454899c))
+* resolve unresolved references and update apk naming logic in repositories ([a8e1bdf](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/a8e1bdfcb3b3938ed79faec97384eb120f45bb2e))
+* update rust version ([096affa](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/096affa36661de2c68c85a615497c01d077482e0))
+
+
+### Features
+
+* add app icons and update notification support in ServerService ([9d657e1](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/9d657e19a5a821aad016d9945ce2cbe357b5187c))
+* add app update check, integrity checker and ui components ([c5fbe20](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/c5fbe20bbefff4363e203bb5d6ac83b489f88542))
+* add dark mode support and fix status bar appearance ([d2d66a7](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/d2d66a74f2020c3b51ea5e802bc844f9f3e05176))
+* android headless support for Android 4.3+ ([a49b8b5](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/a49b8b581e9800f1166dcaae7caf8a499f18be74))
+* **browser:** add in-app web browser ([a65deb2](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/a65deb2b8833d10a357d2dc9f7cdacf5548a2801))
+* **headless:** add about screen, browser close button and sync hints with compose app ([1620c0e](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/1620c0e9582a37cd291eff31ef2704c1f1d39382))
+* **headless:** allow changing data directory ([d32c559](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/d32c55964e98848c70d19c61ca4b217f2710df8a))
+* release ([160e2ba](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/160e2baac7a405a93cd176ceaa43427f4fae1d33))
+* release ([3a178a4](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/3a178a4c0e4f4652cdf7127c5cc09d94c410eff6))
+* release [#5](https://github.com/yuuki-kagura/rakuyomi_bridge/issues/5) ([8d21af1](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/8d21af1b7e33bf7a35b0d3c3fc1c863af8c5e6e1))
+
+
+### Performance Improvements
+
+* release ([d3f85e8](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/d3f85e897e52158f15db6e45cd11c2f8d494e388))
+
 ## [1.2.1](https://github.com/tachibana-shin/rakuyomi_bridge/compare/v1.2.0...v1.2.1) (2026-09-06)
 
 
