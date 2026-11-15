@@ -21,7 +21,7 @@
         "failComment": false,
         "assets": [
           {
-            "path": "androidApp/build/outputs/bundle/release/*-signed.aab",
+            "path": "androidApp/build/outputs/bundle/release/*.aab",
             "label": "Rakuyomi Bridge (Compose) Bundle"
           },
           {
@@ -29,7 +29,7 @@
             "label": "Rakuyomi Bridge (Compose) APK"
           },
           {
-            "path": "androidHeadless/build/outputs/bundle/release/*-signed.aab",
+            "path": "androidHeadless/build/outputs/bundle/release/*.aab",
             "label": "Rakuyomi Bridge (Headless) Bundle"
           },
           {
