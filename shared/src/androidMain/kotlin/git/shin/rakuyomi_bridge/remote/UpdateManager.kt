@@ -25,7 +25,7 @@ class UpdateManager(
   private val currentVersionName: String,
   private val headless: Boolean
 ) {
-  private val githubRepo = "tachibana-shin/rakuyomi_bridge"
+  private val githubRepo = "yuuki-kagura/rakuyomi_bridge"
 
   suspend fun checkForUpdate(): Result<UpdateInfo> = withContext(Dispatchers.IO) {
     try {

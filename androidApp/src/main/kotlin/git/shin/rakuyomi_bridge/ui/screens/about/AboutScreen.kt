@@ -152,7 +152,7 @@ fun AboutScreen() {
         headlineContent = { Text(stringResource(R.string.source_code)) },
         supportingContent = { Text(stringResource(R.string.github_link)) },
         leadingContent = { Icon(Icons.Default.Code, contentDescription = null) },
-        modifier = Modifier.clickable { openUrl("https://github.com/tachibana-shin/rakuyomi_bridge") }
+        modifier = Modifier.clickable { openUrl("https://github.com/yuuki-kagura/rakuyomi_bridge") }
       )
 
       HorizontalDivider(thickness = 0.5.dp, color = MaterialTheme.colorScheme.outlineVariant)
@@ -161,7 +161,7 @@ fun AboutScreen() {
         headlineContent = { Text(stringResource(R.string.license_title)) },
         supportingContent = { Text("GNU AGPL 3.0-1") },
         leadingContent = { Icon(Icons.Default.Gavel, contentDescription = null) },
-        modifier = Modifier.clickable { openUrl("https://github.com/tachibana-shin/rakuyomi_bridge?tab=AGPL-3.0-1-ov-file") }
+        modifier = Modifier.clickable { openUrl("https://github.com/yuuki-kagura/rakuyomi_bridge?tab=AGPL-3.0-1-ov-file") }
       )
 
       HorizontalDivider(thickness = 0.5.dp, color = MaterialTheme.colorScheme.outlineVariant)

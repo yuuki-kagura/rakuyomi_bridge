@@ -92,7 +92,7 @@ class AboutActivity : Activity() {
 
     // License
     root.addView(makeListItem(getString(R.string.license_title), getString(R.string.license_name)) {
-      openUrl("https://github.com/tachibana-shin/rakuyomi/blob/main/LICENSE")
+      openUrl("https://github.com/yuuki-kagura/rakuyomi/blob/main/LICENSE")
     })
     root.addView(divider())
 
