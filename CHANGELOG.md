@@ -1,3 +1,26 @@
+# [2.0.0](https://github.com/yuuki-kagura/rakuyomi_bridge/compare/v1.2.1...v2.0.0) (2026-11-15)
+
+
+* feat!: move project to the yuuki-kagura repositories ([e134360](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/e134360b2a1b098028b38101a0467cadc521cc81))
+
+
+### Bug Fixes
+
+* **ci:** bump setup-android to v4 ([c43cd38](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/c43cd38f51a85fba73fee7773d6182e875ae8181))
+* make rakuyomi checkout reliable and align toolchain ([74de293](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/74de2934e8128c344c81de3359203ad706e47bc9))
+* point workflows and update checks at yuuki-kagura ([85ced78](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/85ced78c09735de6342814f9d6703f68beeadac0))
+* release ([b076dc9](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/b076dc98628bd0702d7fc12ff90d9aff22d0fef7))
+* repair Android CI rust build ([f744a6a](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/f744a6a5f636a4ab38dddaadba1a61f3f454899c))
+* update rust version ([096affa](https://github.com/yuuki-kagura/rakuyomi_bridge/commit/096affa36661de2c68c85a615497c01d077482e0))
+
+
+### BREAKING CHANGES
+
+* the GitHub account hosting rakuyomi and rakuyomi_bridge
+was suspended. Sources, workflows, the update check endpoint and the
+in-app links now point at yuuki-kagura, so installed copies must pull the
+next build from the new repository to keep receiving updates.
+
 # 1.0.0 (2026-11-15)
 
 
